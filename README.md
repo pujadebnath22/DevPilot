@@ -678,10 +678,10 @@ and API rate limiting.
 
 ## Author
 
-**Amit Yadav**
+**Puja Debnath**
 
 GitHub:  
-https://github.com/Amit23ds/DevPilot
+https://github.com/pujadebnath22/DevPilot.git
 
 ---
 
